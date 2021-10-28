@@ -1,0 +1,101 @@
+body{ 
+	background-image:url("Images/gif.gif"); 
+} 
+
+  
+
+#head{ 
+	height: 50px; 
+	background-color: #999; 
+} 
+
+  
+
+.sidebar{ 
+	width: 150px;
+	padding: 0px 12px;
+} 
+
+  
+
+.main{  
+	background-color: #398; 
+
+} 
+
+h5{
+	color: blue;
+}
+
+.card-body{
+	height: 80px;
+}
+
+.desc{
+	font-size:25px;
+	color:green;
+	text-align:bottom-right;
+}
+
+ul { 
+    background-color: #799; 
+} 
+
+
+.skills{
+	background-color: pink;
+	width:15%;
+}
+
+li a { 
+    display: block; 
+    color: dark blue; 
+    padding: 25px 10px; 
+    text-decoration: none; 
+} 
+ 
+ 
+ li p{
+	margin: 25px;
+
+ }
+
+.title{
+	text-align:center;
+	font-size:50px;
+	color:blue;
+}
+ 
+ table{
+	width:100%;
+	margin-left: auto;
+	margin-right: auto;
+ }
+ 
+th,td{ 
+	padding:6px; 
+	border:1px solid black; 
+	border-color:green; 
+} 
+
+
+th{
+	color:red;
+	text-align:center;
+
+}
+
+td{
+	color:green;
+}
+
+.col-sm-4{
+
+
+}
+
+
+li a:hover { /* the hover tag allows the li a to change colour when mouse is over it -*/ 
+    background-color: #111; 
+    width: 100%; 
+} 
